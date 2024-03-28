@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/RoaDo-DashBoard/static/js/main.9da243e3.js",
+    "static/js/453.ff3ed03b.chunk.js": "/RoaDo-DashBoard/static/js/453.ff3ed03b.chunk.js",
+    "index.html": "/RoaDo-DashBoard/index.html",
+    "main.9da243e3.js.map": "/RoaDo-DashBoard/static/js/main.9da243e3.js.map",
+    "453.ff3ed03b.chunk.js.map": "/RoaDo-DashBoard/static/js/453.ff3ed03b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9da243e3.js"
+  ]
+}
